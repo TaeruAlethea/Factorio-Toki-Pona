@@ -15,4 +15,4 @@
 
 German example provided from:
 https://crowdin.com/project/factorio
-
+English example sourced from the Factorio Game files.
