@@ -1,5 +1,5 @@
 # Roadmap
-1. Base.ini
+1. locale/tok/base.ini
     - [ ] autoplace-control-names
     - [ ] damage-type-name
     - [ ] map-gen-preset-name
@@ -11,7 +11,7 @@
     - [ ] fluid-name
     - [ ] virtual-signal-name
     - [ ] virtual-signal-description
-2. Core.ini
+2. locale/tok/Core.ini
 
 German example provided from:
 https://crowdin.com/project/factorio
